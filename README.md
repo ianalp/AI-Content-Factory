@@ -210,7 +210,7 @@ If you encounter any issues or have questions:
 
 1. Check existing [Issues](https://github.com/yourusername/AI-Content-Factory/issues)
 2. Create a new issue with detailed information
-3. Contact: your-email@example.com
+3. Contact: forplanai@gmail.com
 
 ## Roadmap
 
@@ -227,4 +227,4 @@ Future enhancements planned:
 
 ---
 
-Made with ❤️ using Claude AI
+Made by ianalp 
