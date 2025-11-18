@@ -226,5 +226,38 @@ Future enhancements planned:
 - [ ] Content templates
 
 ---
+👤 About the Developer
+ianalp - AI Automation & Full-Stack Developer
+I specialize in creating intelligent automation solutions that save time and boost productivity.
+🛠️ Tech Stack
+
+Backend: Python, FastAPI, Node.js
+Frontend: React, Next.js, TypeScript
+AI/ML: OpenAI API, Claude API, LangChain
+Automation: Playwright, Selenium, Web Scraping
+Data: Pandas, SQL, Data Visualization
+
+📫 Contact
+
+📧 Email: forplanai@gmail.com
+🔗 GitHub: github.com/ianalp
+🐦 Twitter: @ianalp0914
+💼 Kmong: Available for freelance projects
+
+🌟 Services
+Looking for automation solutions? I can help with:
+
+🤖 Web Scraping & Data Collection
+📊 Business Dashboards & Analytics
+✍️ AI-Powered Content Generation
+🔄 Workflow Automation
+💻 Custom Software Development
+
+Open for freelance projects! Feel free to reach out.
+
+<div align="center">
+Made with ❤️ by ianalp
+⭐ Star this repo if you find it useful!
+</div>
 
 Made by ianalp 
